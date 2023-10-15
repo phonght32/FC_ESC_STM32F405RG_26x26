@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EFM8BB21")(type "Legacy")(uri "${KIPRJMOD}/Library/Object/EFM8BB21.lib")(options "")(descr ""))
+  (lib (name "FD6288")(type "Legacy")(uri "${KIPRJMOD}/Library/Object/FD6288Q.lib")(options "")(descr ""))
+)
