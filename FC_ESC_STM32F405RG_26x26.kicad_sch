@@ -2703,12 +2703,6 @@
   (junction (at 527.685 135.255) (diameter 0) (color 0 0 0 0)
     (uuid 047f2c4d-fdf8-4e15-975f-45ecac15bddc)
   )
-  (junction (at 98.425 177.165) (diameter 0) (color 0 0 0 0)
-    (uuid 06dd66ce-c8cf-4996-813a-d4d926de9354)
-  )
-  (junction (at 98.425 172.085) (diameter 0) (color 0 0 0 0)
-    (uuid 08b8e740-3927-4e7f-a529-9a197f7ee612)
-  )
   (junction (at 554.355 135.255) (diameter 0) (color 0 0 0 0)
     (uuid 096da32c-b8c8-49c9-9bfd-897481ace57b)
   )
@@ -2718,17 +2712,8 @@
   (junction (at 193.04 371.475) (diameter 0) (color 0 0 0 0)
     (uuid 0cb6f6a4-582e-42d4-acfa-ac405685e5a8)
   )
-  (junction (at 222.25 36.83) (diameter 0) (color 0 0 0 0)
-    (uuid 0ee1792a-72eb-4c92-96fe-0d26db7a6f47)
-  )
   (junction (at 422.91 39.37) (diameter 0) (color 0 0 0 0)
     (uuid 141bcfa4-79be-4e85-bf97-bfcc77c752d3)
-  )
-  (junction (at 22.86 36.83) (diameter 0) (color 0 0 0 0)
-    (uuid 159201e1-d0b8-43ee-aae7-2487d4dbdd7f)
-  )
-  (junction (at 297.815 36.195) (diameter 0) (color 0 0 0 0)
-    (uuid 15b2fa7e-7e68-45ea-9898-f280369b603b)
   )
   (junction (at 549.91 202.565) (diameter 0) (color 0 0 0 0)
     (uuid 16cf2fc7-bde1-4a19-973e-99b2380325fc)
@@ -2753,9 +2738,6 @@
   )
   (junction (at 554.355 142.875) (diameter 0) (color 0 0 0 0)
     (uuid 2060ecad-76ea-46e5-ac77-8e51603a5896)
-  )
-  (junction (at 98.425 31.115) (diameter 0) (color 0 0 0 0)
-    (uuid 2098484e-7d13-48c1-b600-a13a91629103)
   )
   (junction (at 521.335 242.57) (diameter 0) (color 0 0 0 0)
     (uuid 20c96232-5701-4584-9e21-ae61e30aa865)
@@ -2789,9 +2771,6 @@
   )
   (junction (at 382.27 198.12) (diameter 0) (color 0 0 0 0)
     (uuid 32ce0f8e-b89e-400d-ba9d-d4e2f8d0c6a8)
-  )
-  (junction (at 222.25 177.8) (diameter 0) (color 0 0 0 0)
-    (uuid 3739e9fc-2930-45ed-b7cf-65d43166facc)
   )
   (junction (at 118.11 371.475) (diameter 0) (color 0 0 0 0)
     (uuid 3a51aec2-757b-4dd0-822f-6ebf76f6c32f)
@@ -2829,9 +2808,6 @@
   (junction (at 259.715 371.475) (diameter 0) (color 0 0 0 0)
     (uuid 57f4e02e-f9bc-4916-9687-23adee556c5a)
   )
-  (junction (at 297.815 31.115) (diameter 0) (color 0 0 0 0)
-    (uuid 5a4fa9bb-1cfe-4e54-890b-91e9bacd643d)
-  )
   (junction (at 52.07 390.525) (diameter 0) (color 0 0 0 0)
     (uuid 5add7d87-0de7-40fa-a972-664f5ae7d422)
   )
@@ -2864,9 +2840,6 @@
   )
   (junction (at 523.875 47.625) (diameter 0) (color 0 0 0 0)
     (uuid 72c05bb6-d9b7-4951-a8b1-5cd3dd23ccdd)
-  )
-  (junction (at 297.815 172.085) (diameter 0) (color 0 0 0 0)
-    (uuid 72f4e497-0d3a-45f4-b0f2-f57d183ac814)
   )
   (junction (at 325.12 256.54) (diameter 0) (color 0 0 0 0)
     (uuid 75c49619-b61d-4780-b42b-708da264f02e)
@@ -2961,14 +2934,8 @@
   (junction (at 116.84 256.54) (diameter 0) (color 0 0 0 0)
     (uuid c27ef42c-db5d-4d17-880f-a089123a72ad)
   )
-  (junction (at 297.815 177.165) (diameter 0) (color 0 0 0 0)
-    (uuid c4555f6c-b3fa-41c8-9a87-b7a35827f385)
-  )
   (junction (at 545.465 135.255) (diameter 0) (color 0 0 0 0)
     (uuid c75769b7-e358-4f25-ba66-ee5f3975f2af)
-  )
-  (junction (at 98.425 36.195) (diameter 0) (color 0 0 0 0)
-    (uuid c793ec48-199b-4a7e-b3a4-b85e796c4360)
   )
   (junction (at 496.57 50.165) (diameter 0) (color 0 0 0 0)
     (uuid c8f92036-480b-47ee-8e4c-a7060a89e92b)
@@ -3044,9 +3011,6 @@
   )
   (junction (at 397.51 198.12) (diameter 0) (color 0 0 0 0)
     (uuid f8292989-3b12-4939-b765-a4a9d83bbc24)
-  )
-  (junction (at 22.86 177.8) (diameter 0) (color 0 0 0 0)
-    (uuid f8bab617-5a32-4681-b679-6cbeffa96f34)
   )
   (junction (at 102.87 390.525) (diameter 0) (color 0 0 0 0)
     (uuid f9b94fbe-bccc-468c-a695-4b5e6576fa76)
@@ -3200,10 +3164,6 @@
     (stroke (width 0) (type default))
     (uuid 0f725284-51c6-4cc2-8364-74abb54e135c)
   )
-  (wire (pts (xy 222.25 177.8) (xy 232.41 177.8))
-    (stroke (width 0) (type default))
-    (uuid 10396ba4-f1ed-43c2-b245-b45b53d702b0)
-  )
   (wire (pts (xy 521.335 210.185) (xy 526.415 210.185))
     (stroke (width 0) (type default))
     (uuid 10938bc1-cfd9-4ff1-b104-54713d912bbd)
@@ -3259,10 +3219,6 @@
   (wire (pts (xy 53.34 121.92) (xy 53.34 123.19))
     (stroke (width 0) (type default))
     (uuid 1ab501ff-572f-48fa-8b81-77feb85f1104)
-  )
-  (wire (pts (xy 98.425 31.115) (xy 108.585 31.115))
-    (stroke (width 0) (type default))
-    (uuid 1ae82b76-1be2-460d-b655-9031e97a5599)
   )
   (wire (pts (xy 125.73 256.54) (xy 129.54 256.54))
     (stroke (width 0) (type default))
@@ -3400,10 +3356,6 @@
     (stroke (width 0) (type default))
     (uuid 37556b57-6b39-477c-b3b3-28d0e890d8a1)
   )
-  (wire (pts (xy 22.86 36.83) (xy 33.02 36.83))
-    (stroke (width 0) (type default))
-    (uuid 378fab46-0056-4303-b182-7363d8a3ef34)
-  )
   (wire (pts (xy 444.5 79.375) (xy 443.23 79.375))
     (stroke (width 0) (type default))
     (uuid 3a087ea1-b9d7-4c17-9069-83deed09b60c)
@@ -3419,10 +3371,6 @@
   (wire (pts (xy 325.12 255.27) (xy 325.12 256.54))
     (stroke (width 0) (type default))
     (uuid 3bab7db1-fafc-4dc1-b6a6-3d632c2277b3)
-  )
-  (wire (pts (xy 297.815 177.165) (xy 307.975 177.165))
-    (stroke (width 0) (type default))
-    (uuid 3bc57b3f-5023-49ed-b00d-bca896277d5f)
   )
   (wire (pts (xy 45.72 264.16) (xy 53.34 264.16))
     (stroke (width 0) (type default))
@@ -3480,10 +3428,6 @@
     (stroke (width 0) (type default))
     (uuid 44c47042-f379-40f3-8bf1-68c576e69d89)
   )
-  (wire (pts (xy 98.425 177.165) (xy 108.585 177.165))
-    (stroke (width 0) (type default))
-    (uuid 452220b3-a630-4246-9c84-03955fdda1ca)
-  )
   (wire (pts (xy 189.23 256.54) (xy 193.04 256.54))
     (stroke (width 0) (type default))
     (uuid 455bd7ad-3275-443f-b32b-93a2b3a069c5)
@@ -3499,10 +3443,6 @@
   (wire (pts (xy 252.73 123.19) (xy 265.43 123.19))
     (stroke (width 0) (type default))
     (uuid 484df8de-ac11-4fcd-a2ff-e22c5c8dac49)
-  )
-  (wire (pts (xy 98.425 172.085) (xy 108.585 172.085))
-    (stroke (width 0) (type default))
-    (uuid 48db01c0-0ea7-4b2a-bb86-a8a812d27bcb)
   )
   (wire (pts (xy 475.615 189.23) (xy 478.155 189.23))
     (stroke (width 0) (type default))
@@ -3552,10 +3492,6 @@
     (stroke (width 0) (type default))
     (uuid 5174f91b-6c5e-43b5-b3bb-66448cfa918d)
   )
-  (wire (pts (xy 297.815 172.085) (xy 307.975 172.085))
-    (stroke (width 0) (type default))
-    (uuid 52cc48d4-9453-4f82-b57d-fff8a6d8b592)
-  )
   (wire (pts (xy 554.355 142.875) (xy 545.465 142.875))
     (stroke (width 0) (type default))
     (uuid 53028211-dd24-49c3-8df0-72214edd3a2a)
@@ -3599,10 +3535,6 @@
   (wire (pts (xy 193.04 379.73) (xy 193.04 390.525))
     (stroke (width 0) (type default))
     (uuid 5c59d757-ec7c-435d-af7a-b74553e2c29e)
-  )
-  (wire (pts (xy 22.86 177.8) (xy 33.02 177.8))
-    (stroke (width 0) (type default))
-    (uuid 5c88cbc5-fd4e-4022-9b3e-999cbf2be4aa)
   )
   (wire (pts (xy 245.11 264.16) (xy 252.73 264.16))
     (stroke (width 0) (type default))
@@ -3704,10 +3636,6 @@
     (stroke (width 0) (type default))
     (uuid 71b4b691-6ec9-43ec-b058-5e0df8ba3cc5)
   )
-  (wire (pts (xy 222.25 36.83) (xy 232.41 36.83))
-    (stroke (width 0) (type default))
-    (uuid 72e24d40-dfe6-4575-9838-7b0fa117cadf)
-  )
   (wire (pts (xy 118.11 371.475) (xy 128.27 371.475))
     (stroke (width 0) (type default))
     (uuid 73275ad7-b6dc-4e50-bf99-b49108378656)
@@ -3728,10 +3656,6 @@
     (stroke (width 0) (type default))
     (uuid 760bf266-db80-4b21-beb0-ae4e8f4970aa)
   )
-  (wire (pts (xy 297.815 36.195) (xy 307.975 36.195))
-    (stroke (width 0) (type default))
-    (uuid 76c13416-519f-4fa5-a0b2-1ac552f16f99)
-  )
   (wire (pts (xy 198.12 198.12) (xy 198.12 200.66))
     (stroke (width 0) (type default))
     (uuid 782d43da-8825-432b-811f-df32adc1eeca)
@@ -3739,10 +3663,6 @@
   (wire (pts (xy 379.73 262.89) (xy 379.73 264.16))
     (stroke (width 0) (type default))
     (uuid 7842414d-0f0d-47a5-a0ac-96928be8123c)
-  )
-  (wire (pts (xy 22.86 31.75) (xy 33.02 31.75))
-    (stroke (width 0) (type default))
-    (uuid 78b6a40d-937e-42f4-8d8d-f2240ee0d813)
   )
   (wire (pts (xy 269.875 371.475) (xy 278.13 371.475))
     (stroke (width 0) (type default))
@@ -3824,10 +3744,6 @@
     (stroke (width 0) (type default))
     (uuid 84b8b92d-97e6-4085-b6e0-db0d09ec0be6)
   )
-  (wire (pts (xy 98.425 36.195) (xy 108.585 36.195))
-    (stroke (width 0) (type default))
-    (uuid 84d8eb93-7213-4bcd-bc94-16b234b46ce9)
-  )
   (wire (pts (xy 261.62 255.27) (xy 261.62 256.54))
     (stroke (width 0) (type default))
     (uuid 851e30c3-ba20-411f-bd8f-b9c19cc53df7)
@@ -3895,10 +3811,6 @@
   (wire (pts (xy 182.88 195.58) (xy 182.88 198.12))
     (stroke (width 0) (type default))
     (uuid 92f77656-f918-4f6e-a3ba-824acfee4afa)
-  )
-  (wire (pts (xy 222.25 31.75) (xy 232.41 31.75))
-    (stroke (width 0) (type default))
-    (uuid 93836830-e82a-4cf9-b152-15fad2309f4d)
   )
   (wire (pts (xy 198.12 57.15) (xy 198.12 59.69))
     (stroke (width 0) (type default))
@@ -4032,10 +3944,6 @@
     (stroke (width 0) (type default))
     (uuid a9e9ae2f-ea8a-43d9-88d3-840738895b2b)
   )
-  (wire (pts (xy 22.86 172.72) (xy 33.02 172.72))
-    (stroke (width 0) (type default))
-    (uuid ab1e1c6a-6cb4-4170-b5bb-62a87882bed1)
-  )
   (wire (pts (xy 193.04 390.525) (xy 229.235 390.525))
     (stroke (width 0) (type default))
     (uuid ab56e0f1-ac73-48c0-9fdd-e3035ba03cad)
@@ -4115,10 +4023,6 @@
   (wire (pts (xy 545.465 135.255) (xy 545.465 136.525))
     (stroke (width 0) (type default))
     (uuid c0db3d39-24b8-4326-99df-1c0919e17168)
-  )
-  (wire (pts (xy 297.815 31.115) (xy 307.975 31.115))
-    (stroke (width 0) (type default))
-    (uuid c186f170-2305-4299-afb6-a37699ad1275)
   )
   (wire (pts (xy 443.23 71.12) (xy 444.5 71.12))
     (stroke (width 0) (type default))
@@ -4291,10 +4195,6 @@
   (wire (pts (xy 518.795 141.605) (xy 518.795 142.875))
     (stroke (width 0) (type default))
     (uuid dff0f12f-2096-4c10-890c-d816a601b3b1)
-  )
-  (wire (pts (xy 222.25 172.72) (xy 232.41 172.72))
-    (stroke (width 0) (type default))
-    (uuid e0d42e1d-0776-4793-ad59-0f79f9d1041b)
   )
   (wire (pts (xy 523.875 45.085) (xy 496.57 45.085))
     (stroke (width 0) (type default))
@@ -7575,7 +7475,7 @@
   (symbol (lib_id "Device:C_Small") (at 422.275 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 07aa9f20-0aab-4259-988a-bb327da7c279)
-    (property "Reference" "C39" (at 425.45 229.8763 0)
+    (property "Reference" "C31" (at 425.45 229.8763 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 425.45 232.4163 0)
@@ -7592,7 +7492,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C39") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -7679,7 +7579,7 @@
   (symbol (lib_id "Device:C_Small") (at 563.245 139.065 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0a48b1ba-6a14-4a5a-94d8-9a052d80148e)
-    (property "Reference" "C57" (at 564.515 136.525 0)
+    (property "Reference" "C49" (at 564.515 136.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 564.515 141.605 0)
@@ -7696,7 +7596,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C57") (unit 1)
+          (reference "C49") (unit 1)
         )
       )
     )
@@ -7986,7 +7886,7 @@
   (symbol (lib_id "Device:C_Small") (at 545.465 139.065 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 136af106-a242-4d8f-a6bf-f6e0b556617c)
-    (property "Reference" "C52" (at 546.735 136.525 0)
+    (property "Reference" "C44" (at 546.735 136.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 546.735 141.605 0)
@@ -8003,7 +7903,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C52") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -8012,7 +7912,7 @@
   (symbol (lib_id "Device:C_Small") (at 536.575 139.065 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 138e751d-21da-4f7f-ac38-f9fc8b7dc429)
-    (property "Reference" "C50" (at 537.845 136.525 0)
+    (property "Reference" "C42" (at 537.845 136.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 537.845 141.605 0)
@@ -8029,7 +7929,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C50") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
     )
@@ -8038,7 +7938,7 @@
   (symbol (lib_id "Device:C_Small") (at 367.03 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 13958ebe-9cf9-424a-9d4e-ffe79f5c63ff)
-    (property "Reference" "C34" (at 363.22 193.04 0)
+    (property "Reference" "C26" (at 363.22 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 363.22 190.5 0)
@@ -8055,7 +7955,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C34") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -8090,13 +7990,13 @@
   (symbol (lib_id "Device:C_Small") (at 160.02 377.825 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 14f8f2d9-cb9d-4909-bc4d-c9dba4f8ec7b)
-    (property "Reference" "C15" (at 162.56 376.5613 0)
+    (property "Reference" "C11" (at 162.56 376.5613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 162.56 379.1013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 160.02 377.825 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 160.02 377.825 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 160.02 377.825 0)
@@ -8107,7 +8007,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C15") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -8142,7 +8042,7 @@
   (symbol (lib_id "Device:C_Small") (at 468.63 226.695 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 180d5f4e-872d-4384-8a40-0f4d95ac5a01)
-    (property "Reference" "C42" (at 468.6363 219.71 90)
+    (property "Reference" "C34" (at 468.6363 219.71 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.2nF" (at 468.6363 222.25 90)
@@ -8159,7 +8059,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C42") (unit 1)
+          (reference "C34") (unit 1)
         )
       )
     )
@@ -8199,7 +8099,7 @@
     (property "Value" "BAT54" (at 193.04 200.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 185.42 198.12 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 185.42 198.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 185.42 198.12 90)
@@ -8256,7 +8156,7 @@
     (property "Value" "BAT54" (at 377.19 200.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 369.57 198.12 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 369.57 198.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 198.12 90)
@@ -8308,13 +8208,13 @@
   (symbol (lib_id "Device:C_Small") (at 41.91 375.285 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1c7600ab-695b-490a-86b5-30959cf12b46)
-    (property "Reference" "C5" (at 44.45 374.0213 0)
+    (property "Reference" "C3" (at 44.45 374.0213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF" (at 44.45 376.5613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 41.91 375.285 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 41.91 375.285 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 41.91 375.285 0)
@@ -8325,7 +8225,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C5") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -8386,7 +8286,7 @@
   (symbol (lib_id "Device:C_Small") (at 496.57 53.975 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1da96a96-5d04-406d-855c-1d98393006fc)
-    (property "Reference" "C44" (at 490.22 53.975 0)
+    (property "Reference" "C36" (at 490.22 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22pF" (at 490.22 56.515 0)
@@ -8403,7 +8303,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C44") (unit 1)
+          (reference "C36") (unit 1)
         )
       )
     )
@@ -8487,7 +8387,7 @@
   (symbol (lib_id "Device:C_Small") (at 397.51 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ffbeaa6-08dc-494c-afcc-2ea2ecd246f4)
-    (property "Reference" "C37" (at 393.7 52.07 0)
+    (property "Reference" "C29" (at 393.7 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 393.7 49.53 0)
@@ -8504,7 +8404,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C37") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -8588,32 +8488,6 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 108.585 174.625 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 22fb24b2-8f48-4e48-ad84-efbb4cf48c3c)
-    (property "Reference" "C12" (at 111.76 173.3613 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 111.76 175.9013 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 108.585 174.625 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 108.585 174.625 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid bba1708c-9999-4b10-9426-410be86fc5d1))
-    (pin "2" (uuid 55d3a8d0-08f5-469b-892c-16f859704a44))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C12") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "power:GND") (at 141.605 317.5 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23c705d1-284c-404a-a02f-480e5408cd5f)
@@ -8642,7 +8516,7 @@
   (symbol (lib_id "Device:C_Small") (at 198.12 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 241555c4-0977-4445-8a28-b8f8518151a0)
-    (property "Reference" "C22" (at 194.31 193.04 0)
+    (property "Reference" "C18" (at 194.31 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 194.31 190.5 0)
@@ -8659,7 +8533,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C22") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
     )
@@ -8685,32 +8559,6 @@
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
           (reference "#PWR0108") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 33.02 175.26 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 277fe0d4-9a83-4dff-b598-cf5ca5ae9a5f)
-    (property "Reference" "C4" (at 35.56 173.9963 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 35.56 176.5363 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 33.02 175.26 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 33.02 175.26 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7a8e8d7d-feca-48b1-8398-44229017e558))
-    (pin "2" (uuid 439b6ef7-f238-4dbc-b9f9-91e82bdffe5c))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C4") (unit 1)
         )
       )
     )
@@ -8803,13 +8651,13 @@
   (symbol (lib_id "Device:C_Small") (at 193.04 377.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2b3a0feb-dc3f-4579-9802-0c86c88f6822)
-    (property "Reference" "C20" (at 195.58 375.9263 0)
+    (property "Reference" "C16" (at 195.58 375.9263 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF" (at 195.58 378.4663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 193.04 377.19 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 193.04 377.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 193.04 377.19 0)
@@ -8820,7 +8668,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C20") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
@@ -8957,7 +8805,7 @@
   (symbol (lib_id "Device:C_Small") (at 506.73 53.975 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2e6d4fca-2504-4add-97fe-7d3a21fb6057)
-    (property "Reference" "C45" (at 509.27 53.975 0)
+    (property "Reference" "C37" (at 509.27 53.975 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22pF" (at 509.27 56.515 0)
@@ -8974,7 +8822,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C45") (unit 1)
+          (reference "C37") (unit 1)
         )
       )
     )
@@ -9294,7 +9142,7 @@
   (symbol (lib_id "Device:C_Small") (at 62.23 381.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3bcd399e-5772-478c-962f-6d362a6babce)
-    (property "Reference" "C7" (at 64.77 380.3713 0)
+    (property "Reference" "C5" (at 64.77 380.3713 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "11nF" (at 64.77 382.9113 0)
@@ -9311,7 +9159,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C7") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -9508,13 +9356,13 @@
   (symbol (lib_id "Device:C_Small") (at 222.25 34.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3eee21cb-4e27-4d9b-aad8-c90f161ed003)
-    (property "Reference" "C23" (at 224.79 33.0263 0)
+    (property "Reference" "C19" (at 224.79 33.0263 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7uF" (at 224.79 35.5663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 222.25 34.29 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 222.25 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 222.25 34.29 0)
@@ -9525,7 +9373,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C23") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
     )
@@ -9671,7 +9519,7 @@
     (property "Value" "BAT54" (at 177.8 200.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 170.18 198.12 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 170.18 198.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 198.12 90)
@@ -9722,7 +9570,7 @@
   (symbol (lib_id "Device:C_Small") (at 507.365 106.045 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 44e9f32b-fad6-4188-bab7-ef4ac2adda02)
-    (property "Reference" "C46" (at 509.905 104.7686 0)
+    (property "Reference" "C38" (at 509.905 104.7686 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "2.2uF" (at 509.905 107.3086 0)
@@ -9739,7 +9587,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C46") (unit 1)
+          (reference "C38") (unit 1)
         )
       )
     )
@@ -9799,13 +9647,13 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 174.625 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 472120f4-b143-4128-974d-a93e94253469)
-    (property "Reference" "C10" (at 100.965 173.3613 0)
+    (property "Reference" "C8" (at 101.6 173.3613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7uF" (at 100.965 175.9013 0)
+    (property "Value" "100nF" (at 101.6 175.9013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 98.425 174.625 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 98.425 174.625 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 98.425 174.625 0)
@@ -9816,7 +9664,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C10") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -9875,7 +9723,7 @@
   (symbol (lib_id "Device:C_Small") (at 382.27 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48abf8ee-3ddf-4fbc-a964-c757dc205e21)
-    (property "Reference" "C36" (at 378.46 193.04 0)
+    (property "Reference" "C28" (at 378.46 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 378.46 190.5 0)
@@ -9892,7 +9740,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C36") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -9984,7 +9832,7 @@
     (property "Value" "BAT54" (at 177.8 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 170.18 57.15 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 170.18 57.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.18 57.15 90)
@@ -10374,36 +10222,10 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 307.975 174.625 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 5128c05c-aaa9-4b07-a733-b3fd8fa71e50)
-    (property "Reference" "C32" (at 311.15 173.3613 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 311.15 175.9013 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 307.975 174.625 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 307.975 174.625 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 9324e267-5bd5-4676-ae39-cbe14c6a5be5))
-    (pin "2" (uuid d8778442-4b57-4345-a293-0215fcbb5b8e))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C32") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:C_Small") (at 554.355 139.065 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5174f0eb-1481-4ff9-a576-9334b1af95fd)
-    (property "Reference" "C56" (at 555.625 136.525 0)
+    (property "Reference" "C48" (at 555.625 136.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 555.625 141.605 0)
@@ -10420,7 +10242,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C56") (unit 1)
+          (reference "C48") (unit 1)
         )
       )
     )
@@ -10552,7 +10374,7 @@
   (symbol (lib_id "Device:C_Small") (at 549.91 205.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5442dd1b-f26a-483f-9542-92859503b8cb)
-    (property "Reference" "C54" (at 551.815 203.835 0)
+    (property "Reference" "C46" (at 551.815 203.835 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 551.815 206.375 0)
@@ -10569,7 +10391,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C54") (unit 1)
+          (reference "C46") (unit 1)
         )
       )
     )
@@ -10654,7 +10476,7 @@
   (symbol (lib_id "Device:C_Small") (at 118.11 368.935 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 591105f5-c4a3-4a12-8a75-e3edd658d535)
-    (property "Reference" "C13" (at 120.65 367.6713 0)
+    (property "Reference" "C9" (at 120.65 367.6713 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 120.65 370.2113 0)
@@ -10671,7 +10493,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C13") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -10712,7 +10534,7 @@
     (property "Value" "BAT54" (at 392.43 200.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 384.81 198.12 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 384.81 198.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 384.81 198.12 90)
@@ -10769,7 +10591,7 @@
     (property "Value" "BAT54" (at 208.28 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 200.66 57.15 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 200.66 57.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 200.66 57.15 90)
@@ -10821,7 +10643,7 @@
   (symbol (lib_id "Device:C_Small") (at 517.525 106.045 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5eb0eb38-b4ae-4ff4-a956-2f32980f8d1d)
-    (property "Reference" "C47" (at 520.065 104.7686 0)
+    (property "Reference" "C39" (at 520.065 104.7686 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "2.2uF" (at 520.065 107.3086 0)
@@ -10838,7 +10660,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C47") (unit 1)
+          (reference "C39") (unit 1)
         )
       )
     )
@@ -10947,7 +10769,7 @@
   (symbol (lib_id "Device:C_Small") (at 544.195 271.78 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 61cc7fa9-95b7-4cdf-a571-18906539c4e7)
-    (property "Reference" "C51" (at 547.37 270.5163 0)
+    (property "Reference" "C43" (at 547.37 270.5163 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1nF" (at 547.37 273.0563 0)
@@ -10964,7 +10786,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C51") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
     )
@@ -10979,7 +10801,7 @@
     (property "Value" "BAT54" (at 407.67 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 400.05 57.15 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 400.05 57.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 400.05 57.15 90)
@@ -11060,7 +10882,7 @@
   (symbol (lib_id "Device:C_Small") (at 167.64 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66a56329-ddfd-47a0-b294-cfd2156bd00c)
-    (property "Reference" "C17" (at 163.83 193.04 0)
+    (property "Reference" "C13" (at 163.83 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 163.83 190.5 0)
@@ -11077,7 +10899,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C17") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -11273,7 +11095,7 @@
   (symbol (lib_id "Device:C_Small") (at 490.855 40.005 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6b71e0ce-c772-42d9-89d5-6eb036cd83a1)
-    (property "Reference" "C43" (at 497.205 40.005 0)
+    (property "Reference" "C35" (at 497.205 40.005 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 497.205 42.545 0)
@@ -11290,7 +11112,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C43") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
     )
@@ -11622,36 +11444,10 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 307.975 33.655 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 739087ed-c7ba-4896-bf32-270eeab0089b)
-    (property "Reference" "C31" (at 311.15 32.3913 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 311.15 34.9313 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 307.975 33.655 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 307.975 33.655 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 4314f328-0977-45bc-9864-5db6315569e9))
-    (pin "2" (uuid 68cd187d-e298-42ae-8867-8d8961274af6))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C31") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:C_Small") (at 182.88 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 751dd043-4f38-43aa-aa69-92016248ffb9)
-    (property "Reference" "C19" (at 179.07 193.04 0)
+    (property "Reference" "C15" (at 179.07 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 179.07 190.5 0)
@@ -11668,7 +11464,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C19") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -11956,13 +11752,13 @@
   (symbol (lib_id "Device:C_Small") (at 98.425 33.655 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8418ea97-1126-4805-9db5-aeabe98058e7)
-    (property "Reference" "C9" (at 100.965 32.3913 0)
+    (property "Reference" "C7" (at 101.6 32.3913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7uF" (at 100.965 34.9313 0)
+    (property "Value" "100nF" (at 101.6 34.9313 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 98.425 33.655 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 98.425 33.655 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 98.425 33.655 0)
@@ -11973,7 +11769,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C9") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -12086,13 +11882,13 @@
   (symbol (lib_id "Device:C_Small") (at 269.875 381.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8910608e-f6ec-48f0-a5c3-694d7d965b57)
-    (property "Reference" "C28" (at 272.415 380.3713 0)
+    (property "Reference" "C22" (at 272.415 380.3713 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF" (at 272.415 382.9113 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 269.875 381.635 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 269.875 381.635 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 269.875 381.635 0)
@@ -12103,7 +11899,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C28") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -12214,13 +12010,13 @@
   (symbol (lib_id "Device:C_Small") (at 222.25 175.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8d26dc02-f02f-471c-8b2a-dc950695beef)
-    (property "Reference" "C24" (at 224.79 173.9963 0)
+    (property "Reference" "C20" (at 224.79 173.9963 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7uF" (at 224.79 176.5363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 222.25 175.26 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 222.25 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 222.25 175.26 0)
@@ -12231,7 +12027,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C24") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
     )
@@ -12327,13 +12123,13 @@
   (symbol (lib_id "Device:C_Small") (at 297.815 174.625 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 904b8cef-bea5-42e2-9381-4042cc54db07)
-    (property "Reference" "C30" (at 300.355 173.3613 0)
+    (property "Reference" "C24" (at 300.355 173.3613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7uF" (at 300.355 175.9013 0)
+    (property "Value" "100nF" (at 300.355 175.9013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 297.815 174.625 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 297.815 174.625 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 297.815 174.625 0)
@@ -12344,7 +12140,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C30") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -12353,7 +12149,7 @@
   (symbol (lib_id "Device:C_Small") (at 72.39 381.635 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 90c2686f-0638-445e-9986-ebccc7924a70)
-    (property "Reference" "C8" (at 74.93 380.3713 0)
+    (property "Reference" "C6" (at 74.93 380.3713 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "8.2pF" (at 74.93 382.9113 0)
@@ -12370,7 +12166,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C8") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -12579,7 +12375,7 @@
   (symbol (lib_id "Device:C_Small") (at 182.88 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9489ad3f-0ee6-4ed8-8583-1ca862e710b9)
-    (property "Reference" "C18" (at 179.07 52.07 0)
+    (property "Reference" "C14" (at 179.07 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 179.07 49.53 0)
@@ -12596,7 +12392,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C18") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -12605,13 +12401,13 @@
   (symbol (lib_id "Device:C_Small") (at 149.86 377.825 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 94df102b-7b2f-4ab9-9cf8-13975d44d7cd)
-    (property "Reference" "C14" (at 152.4 376.5613 0)
+    (property "Reference" "C10" (at 152.4 376.5613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100uF" (at 152.4 379.1013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 149.86 377.825 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 149.86 377.825 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 149.86 377.825 0)
@@ -12622,7 +12418,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C14") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -12682,7 +12478,7 @@
   (symbol (lib_id "Device:C_Small") (at 198.12 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9629a98b-f84a-4380-af3f-e79539c175f5)
-    (property "Reference" "C21" (at 194.31 52.07 0)
+    (property "Reference" "C17" (at 194.31 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 194.31 49.53 0)
@@ -12699,7 +12495,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C21") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -12734,7 +12530,7 @@
   (symbol (lib_id "Device:C_Small") (at 464.82 278.765 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9687292a-f0ad-431f-aa70-3d6a473070a9)
-    (property "Reference" "C41" (at 462.28 281.94 90)
+    (property "Reference" "C33" (at 462.28 281.94 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100nF" (at 468.63 281.94 90)
@@ -12751,7 +12547,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C41") (unit 1)
+          (reference "C33") (unit 1)
         )
       )
     )
@@ -12815,7 +12611,7 @@
   (symbol (lib_id "Device:C_Small") (at 382.27 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 98b561fa-32a7-4f75-8b1a-47110ac33791)
-    (property "Reference" "C35" (at 378.46 52.07 0)
+    (property "Reference" "C27" (at 378.46 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 378.46 49.53 0)
@@ -12832,7 +12628,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C35") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -12841,7 +12637,7 @@
   (symbol (lib_id "Device:C_Small") (at 167.64 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 991b2466-9d6a-47c9-8fde-4ebdd1d6f088)
-    (property "Reference" "C16" (at 163.83 52.07 0)
+    (property "Reference" "C12" (at 163.83 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 163.83 49.53 0)
@@ -12858,7 +12654,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C16") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -13244,7 +13040,7 @@
     (property "Value" "BAT54" (at 377.19 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 369.57 57.15 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 369.57 57.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 369.57 57.15 90)
@@ -13481,32 +13277,6 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 232.41 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid a11467d3-926c-4fba-be90-2a295135ee6c)
-    (property "Reference" "C25" (at 234.95 33.0263 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 234.95 35.5663 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 232.41 34.29 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 232.41 34.29 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid aa62d533-55fb-4614-9842-38acd2bc9195))
-    (pin "2" (uuid 4ae8fffb-6637-4eb4-aa4a-8351d2a3677a))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C25") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Outline:outline") (at 342.9 399.415 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1316c00-ed91-4364-98dc-7f0a4a2f12f3)
@@ -13585,7 +13355,7 @@
   (symbol (lib_id "Device:C_Small") (at 549.91 237.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a30b39e2-1af4-4f54-b821-fd647095af04)
-    (property "Reference" "C55" (at 551.815 236.22 0)
+    (property "Reference" "C47" (at 551.815 236.22 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 551.815 238.76 0)
@@ -13602,7 +13372,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C55") (unit 1)
+          (reference "C47") (unit 1)
         )
       )
     )
@@ -13853,7 +13623,7 @@
     (property "Value" "4.7uF" (at 25.4 176.5363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 22.86 175.26 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 22.86 175.26 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 22.86 175.26 0)
@@ -13899,7 +13669,7 @@
   (symbol (lib_id "Device:C_Small") (at 518.795 139.065 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b2211e98-fc57-46e4-a9fb-45cbce4e76d3)
-    (property "Reference" "C48" (at 520.065 136.525 0)
+    (property "Reference" "C40" (at 520.065 136.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 520.065 141.605 0)
@@ -13916,7 +13686,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C48") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
     )
@@ -13983,7 +13753,7 @@
     (property "Value" "BAT54" (at 208.28 200.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 200.66 198.12 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 200.66 198.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 200.66 198.12 90)
@@ -14006,32 +13776,6 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 33.02 34.29 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid b68d9ac1-8934-4ab3-a82f-5081371a0d93)
-    (property "Reference" "C3" (at 35.56 33.0263 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 35.56 35.5663 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 33.02 34.29 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 33.02 34.29 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid a98f489e-6ab9-42fc-a1da-4e2ae9cc6db7))
-    (pin "2" (uuid db62ea86-4fb3-423e-9db2-d343bbec0626))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C3") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:D_Small") (at 400.05 198.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b716a313-b077-4924-aa2d-fda2b9d5a75a)
@@ -14041,7 +13785,7 @@
     (property "Value" "BAT54" (at 407.67 200.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 400.05 198.12 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 400.05 198.12 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 400.05 198.12 90)
@@ -14227,7 +13971,7 @@
   (symbol (lib_id "Device:C_Small") (at 546.1 177.165 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba17721e-556a-4393-b7dc-fb3cbbe4d14b)
-    (property "Reference" "C53" (at 549.275 175.9013 0)
+    (property "Reference" "C45" (at 549.275 175.9013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 549.275 178.4413 0)
@@ -14244,7 +13988,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C53") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -14651,7 +14395,7 @@
   (symbol (lib_id "Device:C_Small") (at 249.555 374.015 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c8c44545-e2f5-4615-81cd-b93d9d2e368f)
-    (property "Reference" "C27" (at 252.095 372.7513 0)
+    (property "Reference" "C21" (at 252.095 372.7513 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "120pF" (at 252.095 375.2913 0)
@@ -14668,7 +14412,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C27") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -14729,32 +14473,6 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 232.41 175.26 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid cad1b50e-b1b1-4524-a896-b9863df77f88)
-    (property "Reference" "C26" (at 234.95 173.9963 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 234.95 176.5363 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 232.41 175.26 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 232.41 175.26 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid dcc52309-5ea0-47e5-82c1-a8e7df238d3d))
-    (pin "2" (uuid 8119e255-2fe2-4060-8fcc-b6df0b6945fb))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C26") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:R_Small") (at 33.02 259.08 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cad9e471-dc6b-4bfa-9573-dd59df8934de)
@@ -14809,13 +14527,13 @@
   (symbol (lib_id "Device:C_Small") (at 52.07 375.285 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cb633d12-11b4-4093-8ea8-e0488acef3da)
-    (property "Reference" "C6" (at 54.61 374.0213 0)
+    (property "Reference" "C4" (at 54.61 374.0213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10uF" (at 54.61 376.5613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 52.07 375.285 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 52.07 375.285 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 52.07 375.285 0)
@@ -14826,7 +14544,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C6") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
@@ -14963,7 +14681,7 @@
   (symbol (lib_id "Device:C_Small") (at 527.685 139.065 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d085cdbc-75c2-4b4f-936e-eb1c9b361960)
-    (property "Reference" "C49" (at 528.955 136.525 0)
+    (property "Reference" "C41" (at 528.955 136.525 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 528.955 141.605 0)
@@ -14980,7 +14698,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C49") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
     )
@@ -15015,7 +14733,7 @@
   (symbol (lib_id "Device:C_Small") (at 367.03 52.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d318954f-4a2f-46d1-be8b-29fd3bc81c64)
-    (property "Reference" "C33" (at 363.22 52.07 0)
+    (property "Reference" "C25" (at 363.22 52.07 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 363.22 49.53 0)
@@ -15032,7 +14750,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C33") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -15100,7 +14818,7 @@
     (property "Value" "BAT54" (at 392.43 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 384.81 57.15 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 384.81 57.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 384.81 57.15 90)
@@ -15253,7 +14971,7 @@
   (symbol (lib_id "Device:C_Small") (at 397.51 193.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d87fd16e-ef90-4bd7-8d9c-400469431749)
-    (property "Reference" "C38" (at 393.7 193.04 0)
+    (property "Reference" "C30" (at 393.7 193.04 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1uF" (at 393.7 190.5 0)
@@ -15270,7 +14988,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C38") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -15987,7 +15705,7 @@
   (symbol (lib_id "Device:C_Small") (at 422.91 179.07 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ec2060c5-3d43-477e-9780-312189fb789a)
-    (property "Reference" "C40" (at 426.085 177.8063 0)
+    (property "Reference" "C32" (at 426.085 177.8063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100nF" (at 426.085 180.3463 0)
@@ -16004,7 +15722,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C40") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )
@@ -16098,7 +15816,7 @@
     (property "Value" "4.7uF" (at 25.4 35.5663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 22.86 34.29 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 22.86 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 22.86 34.29 0)
@@ -16187,32 +15905,6 @@
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
           (reference "#PWR025") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "Device:C_Small") (at 108.585 33.655 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid f2a730b1-5dab-4020-b75d-1afd1042fd90)
-    (property "Reference" "C11" (at 111.76 32.3913 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "100nF" (at 111.76 34.9313 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 108.585 33.655 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 108.585 33.655 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 49f9c722-0427-49f6-9a34-30268c8fbe7c))
-    (pin "2" (uuid ccc4fbad-3c6f-4ff9-a00e-576934e2ad0b))
-    (instances
-      (project "FC_ESC_STM32F405RG_26x26"
-        (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C11") (unit 1)
         )
       )
     )
@@ -16349,13 +16041,13 @@
   (symbol (lib_id "Device:C_Small") (at 297.815 33.655 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f8ac4b57-1bb6-4a38-8dc2-49eafe7a442a)
-    (property "Reference" "C29" (at 300.355 32.3913 0)
+    (property "Reference" "C23" (at 300.99 32.3913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "4.7uF" (at 300.355 34.9313 0)
+    (property "Value" "100nF" (at 300.99 34.9313 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric" (at 297.815 33.655 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 297.815 33.655 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 297.815 33.655 0)
@@ -16366,7 +16058,7 @@
     (instances
       (project "FC_ESC_STM32F405RG_26x26"
         (path "/6fa335ed-93eb-4e4d-a8c6-c576f230d685"
-          (reference "C29") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -16485,7 +16177,7 @@
     (property "Value" "BAT54" (at 193.04 59.69 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_SOD-123F" (at 185.42 57.15 90)
+    (property "Footprint" "Diode_SMD:D_SOD-323" (at 185.42 57.15 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 185.42 57.15 90)
