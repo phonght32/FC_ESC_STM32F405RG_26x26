@@ -5,4 +5,5 @@
   (lib (name "ICM42688")(type "Legacy")(uri "${KIPRJMOD}/Library/Object/ICM-42688-P.lib")(options "")(descr ""))
   (lib (name "IP4256")(type "Legacy")(uri "${KIPRJMOD}/Library/Object/IP4256CZ5-W.lib")(options "")(descr ""))
   (lib (name "Outline")(type "Legacy")(uri "${KIPRJMOD}/Library/Object/outline.lib")(options "")(descr ""))
+  (lib (name "TPS54331")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/TPS54331D.kicad_sym")(options "")(descr ""))
 )
