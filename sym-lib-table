@@ -7,4 +7,5 @@
   (lib (name "Outline")(type "Legacy")(uri "${KIPRJMOD}/Library/Object/outline.lib")(options "")(descr ""))
   (lib (name "TPS54331")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/TPS54331D.kicad_sym")(options "")(descr ""))
   (lib (name "AT7456")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/AT7456.kicad_sym")(options "")(descr ""))
+  (lib (name "INA186")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/INA186.kicad_sym")(options "")(descr ""))
 )
