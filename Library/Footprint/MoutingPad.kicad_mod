@@ -13,5 +13,5 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0a1864e9-846f-4d92-8477-eb60241747b9)
   )
-  (pad "1" smd rect (at 0 0) (size 2 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 76466cf3-9a9d-47c5-af91-b2747afd37e5))
+  (pad "1" smd rect (at 0 0) (size 2 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 76466cf3-9a9d-47c5-af91-b2747afd37e5))
 )
