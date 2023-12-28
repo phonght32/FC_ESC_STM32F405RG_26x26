@@ -9,4 +9,5 @@
   (lib (name "AT7456")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/AT7456.kicad_sym")(options "")(descr ""))
   (lib (name "INA186")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/INA186.kicad_sym")(options "")(descr ""))
   (lib (name "RT9013")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/RT9013-33GB.kicad_sym")(options "")(descr ""))
+  (lib (name "SIZ200DT")(type "KiCad")(uri "${KIPRJMOD}/Library/Object/SIZ200DT.kicad_sym")(options "")(descr ""))
 )
