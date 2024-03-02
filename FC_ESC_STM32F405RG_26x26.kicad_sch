@@ -22667,7 +22667,6 @@
 		)
 	)
 	(symbol
-		(lib_name "FD6288Q:FD6288Q")
 		(lib_id "FD6288Q:FD6288Q")
 		(at 128.27 198.12 0)
 		(unit 1)
@@ -23812,7 +23811,6 @@
 		)
 	)
 	(symbol
-		(lib_name "FD6288Q:FD6288Q")
 		(lib_id "FD6288Q:FD6288Q")
 		(at 327.66 198.12 0)
 		(unit 1)
@@ -28715,7 +28713,6 @@
 		)
 	)
 	(symbol
-		(lib_name "FD6288Q:FD6288Q")
 		(lib_id "FD6288Q:FD6288Q")
 		(at 327.66 57.15 0)
 		(unit 1)
@@ -28914,7 +28911,6 @@
 		)
 	)
 	(symbol
-		(lib_name "FD6288Q:FD6288Q")
 		(lib_id "FD6288Q:FD6288Q")
 		(at 128.27 57.15 0)
 		(unit 1)
