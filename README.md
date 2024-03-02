@@ -96,3 +96,5 @@ This board use jumper to select 5V power source and to enable 3V3 power supply.
 [Download.](assets/BOM/FC_ESC_STM32F405RG_26x26.xlsx)
 
 ### 6. Gerber
+
+[Download.](assets/gerber_FC_ESC_STM32F405RG_26x26_v1_0.zip)
